@@ -1,4 +1,6 @@
-### Hi there 👋
+### 하이요 👋
+
+꿈은 대통령입니다✨
 
 <!--
 **9j/9j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
