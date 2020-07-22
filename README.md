@@ -7,6 +7,6 @@
 
 꿈은 대통령입니다✨
 
-[![ahpo's github stats](https://github-readme-stats.vercel.app/api?username=9j&theme=radical)](https://github.com/9j)
+![ahpo's github stats](https://github-readme-stats.vercel.app/api?username=9j&theme=radical)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=9j.9j)
