@@ -1,5 +1,11 @@
 <h1 align="center">하이요 👋</h1>
 <h3 align="center">꿈은 대통령입니다✨</h3>
+
+<p align="center">
+<a href="https://dev.to/00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="00" height="20" width="20" /></a>
+<a href="https://medium.com/@0e" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@0e" height="20" width="20" /></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9j" alt="9j" /> </p>
 
 - 📝 I regulary write articles on [https://ahpo.dev/](https://ahpo.dev/)
@@ -31,8 +37,3 @@
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=9j&show_icons=true&theme=radical" alt="9j" /> </p>
-
-<p align="center">
-<a href="https://dev.to/00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="00" height="20" width="20" /></a>
-<a href="https://medium.com/@0e" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@0e" height="20" width="20" /></a>
-</p>
