@@ -17,6 +17,8 @@
 
 ⚡ Fun fact 2 **HTML means How To Meet Ladies 😂**
 
+> (영어 쓰는 척 한번 해보고 싶었음)
+
 ### 내 기술 스택임
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
