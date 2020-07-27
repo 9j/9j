@@ -9,15 +9,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9j" alt="9j" /> </p>
 
-📝 I regulary write articles on [https://ahpo.dev/](https://ahpo.dev/)
+📝 짧은 글은 [https://ahpo.dev/](https://ahpo.dev/) 에다가 쓰고 장문의 기술적인 글은 [미디엄](https://medium.com/@0e)에 투고합니다
 
-📫 How to reach me **mail@ahpo.dev**
+📫 연락은 **mail@ahpo.dev** 로 부탁드립니다
 
 ⚡ Fun fact 1 **Genius is 1 percent inspiration and 99 percent perspiration. Yes, you should have 1 percent inspiration 😂**
 
 ⚡ Fun fact 2 **HTML means How To Meet Ladies 😂**
 
-### My Tech Stack
+### 내 기술 스택임
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -34,7 +34,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 
-### My Development Environment
+### 내 개발 환경임
+
+> 💪 짱짱 좋은 네오빔 쓰세요
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![NeoVim](http://img.shields.io/badge/-NeoVim-54a23d?style=flat-square&logo=neovim&logoColor=ffffff)
