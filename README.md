@@ -5,6 +5,7 @@
 <p align="center">
 <a href="https://dev.to/00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="00" height="20" width="20" /></a>
 <a href="https://medium.com/@0e" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@0e" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/00o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="00o" height="20" width="20" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9j" alt="9j" /> </p>
