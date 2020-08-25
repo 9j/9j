@@ -12,13 +12,9 @@
 
 📝 짧은 글은 [https://ahpo.dev/](https://ahpo.dev/) 에다가 쓰고 장문의 기술적인 글은 [미디엄](https://medium.com/@0e)에 투고합니다
 
-📫 연락은 **mail@ahpo.dev** 로 부탁드립니다
+📫 연락은 **mail at ahpo dot dev** 로 부탁드립니다
 
-⚡ Fun fact 1 **Genius is 1 percent inspiration and 99 percent perspiration. Yes, you should have 1 percent inspiration 😂**
-
-⚡ Fun fact 2 **HTML means How To Meet Ladies 😂**
-
-> (영어 쓰는 척 한번 해보고 싶었음)
+⚡ Fun fact **Genius is 1 percent inspiration and 99 percent perspiration. Yes, you should have 1 percent inspiration 😂**
 
 ### 내 기술 스택임
 
