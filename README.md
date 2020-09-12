@@ -1,6 +1,5 @@
 <h1 align="center">하이요 👋</h1>
 <h3 align="center">꿈은 대통령입니다✨</h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=9j&show_icons=true&theme=radical" alt="9j" /> </p>
 
 <p align="center">
 <a href="https://dev.to/00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="00" height="20" width="20" /></a>
