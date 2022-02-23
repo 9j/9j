@@ -2,7 +2,6 @@
   <img src="https://www.mozilla.org/media/img/firefox/campaign/unfck/en/mug.c8c70418530a.gif" alt="Unfck the internet">
 </div>
 <p align="center">less code less bugs, profile too.</p>
-<p align="center">구직중입니다. Linkedin이나 메일 부탁드려요!</p>
 
 <p align="center">
   <a href="https://world.hey.com/bach" target="blank"><img align="center" src="https://user-images.githubusercontent.com/11691670/146031077-decdc117-ff13-4e00-ba2f-19103cfc8ba7.png" alt="9j's HEY World" height="20" width="20" /></a>
