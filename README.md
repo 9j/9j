@@ -10,3 +10,7 @@
   <a href="https://medium.com/@0e" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="9j's Medium" height="20" width="20" /></a>
   <a href="https://linkedin.com/in/heybach" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="9j's Linkedin" height="20" width="20" /></a>
 </p>
+
+Thank you for sponsoring me...
+
+- MIZZU
