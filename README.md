@@ -1,14 +1,3 @@
-<style>
-  .text-rainbow {
-    background-image: linear-gradient(90deg, red, orange, yellow, green, blue, navy, purple);
-    -webkit-background-clip: text;
-    color: transparent;
-
-    font-weight: bold;
-    font-size: 40px;
-  }
-</style>
-
 <div align="center">
   <img src="https://www.mozilla.org/media/img/firefox/campaign/unfck/en/mug.c8c70418530a.gif" alt="Unfck the internet">
 </div>
@@ -24,12 +13,12 @@
 Thank you for sponsoring me...
 
 
-<h3 align="center">🏅 GOLD SPONSOR</h3>
+<h3>🏅 GOLD SPONSOR</h3>
 
-<p align="center" class="text-rainbow">동건맨</p>
-<p align="center" class="text-rainbow">Flynn</p>
+- 동건맨
+- Flynn
 
-🥉 BRONZE SPONSOR
+<h4>🥉 BRONZE SPONSOR</h4>
 
 - ForestLee
 - MIZZU
