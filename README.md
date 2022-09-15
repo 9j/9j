@@ -10,15 +10,17 @@
   <a href="https://linkedin.com/in/heybach" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="9j's Linkedin" height="20" width="20" /></a>
 </p>
 
-Thank you for sponsoring me...
 
 
-<h3>🏅 GOLD SPONSOR</h3>
-
-- 동건맨
-- Flynn
-
-<h4>🥉 BRONZE SPONSOR</h4>
-
-- ForestLee
-- MIZZU
+ <details>
+  <summary>Thank you for sponsoring me...</summary>
+  <h3>🏅 GOLD SPONSOR</h3>
+  
+  - 동건맨
+  - Flynn
+  
+  <h4>🥉 BRONZE SPONSOR</h4>
+  
+  - ForestLee
+  - MIZZU
+</details>
