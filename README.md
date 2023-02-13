@@ -1,26 +1,16 @@
-<div align="center">
-  <img src="https://www.mozilla.org/media/img/firefox/campaign/unfck/en/mug.c8c70418530a.gif" alt="Unfck the internet">
-</div>
-<p align="center">less code less bugs, profile too.</p>
+## Pin
+- [무지성 useMemo, 멈춰!](https://snack.wiki/react-usememo/)
+- [손목, 소모품입니다 (수술까지 한 개발자의 개발 장비 이야기)](https://world.hey.com/bach/post-cadaa79b)
+- [그래서, ROP가 뭔데? (Railway oriented programming)](https://0e.medium.com/그래서-rop가-뭔데-씹덕아-railway-oriented-programming-4e8070c04bda)
 
-<p align="center">
-  <a href="https://world.hey.com/bach" target="blank"><img align="center" src="https://user-images.githubusercontent.com/11691670/146031077-decdc117-ff13-4e00-ba2f-19103cfc8ba7.png" alt="9j's HEY World" height="20" width="20" /></a>
-  <a href="https://snack.wiki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gatsby.svg" alt="9j's HEY World" height="20" width="20" /></a>
-  <a href="https://medium.com/@0e" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="9j's Medium" height="20" width="20" /></a>
-  <a href="https://linkedin.com/in/heybach" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="9j's Linkedin" height="20" width="20" /></a>
-</p>
+## Websites
 
+- [엔지니어링 스낵](https://snack.wiki/)
+- [Blog](https://world.hey.com/bach)
 
+## Connect
 
- <details>
-  <summary>Thank you for sponsoring me...</summary>
-  <h3>🏅 GOLD SPONSOR</h3>
-  
-  - 동건맨
-  - Flynn
-  
-  <h4>🥉 BRONZE SPONSOR</h4>
-  
-  - ForestLee
-  - MIZZU
-</details>
+- [Email](mailto:bach@hey.com)
+- [Github](https://github.com/9j)
+- [Twitter](https://twitter.com/BahkChanhee)
+- [LinkedIn](https://www.linkedin.com/in/heybach/)
